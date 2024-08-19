@@ -1,5 +1,6 @@
 import random
-
+print("Rock, paper, scissors is a simple but fun game that can be played by two or more people. -or computer ;)-")
+print("Rules: Rock crushes scissors. Scissors cuts paper. Paper covers rock.")
 def rock_paper_scissors_salih_kaya():
     player_wins = 0
     computer_wins = 0
